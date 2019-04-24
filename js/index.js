@@ -1,4 +1,4 @@
 setTimeout(function(){
     window.location.replace("https://sourcerer.io/murilo001");
-}, 6000);
+}, 100);
 
